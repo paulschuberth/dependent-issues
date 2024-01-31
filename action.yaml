@@ -38,5 +38,5 @@ inputs:
       By **[Dependent Issues](https://github.com/z0al/dependent-issues)** (🤖). Happy coding!
 
 runs:
-  using: node16
+  using: node20
   main: ./index.js
